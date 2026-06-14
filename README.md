@@ -10,14 +10,14 @@
 
 ## 📖 Table of Contents
 
-- [About Tech Guru](#about-tech-guru)
+- [About Tech Guru](#about-codeforge-academy)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Configuration](#configuration)
   - [Running the Application](#running-the-application)
-- [Tech Stack](#tech-stack)
+- [codeforge-academy](#tech-stack)
 - [Project Structure](#project-structure)
 - [Development Guide](#development-guide)
 - [Deployment](#deployment)
@@ -35,11 +35,11 @@
 
 ---
 
-## 🎯 About Tech Guru
+## 🎯 About codeforge-academy
 
-Tech Guru is a modern, interactive learning platform designed to help developers of all skill levels improve their coding abilities through practical, hands-on experience. Whether you're a beginner learning your first programming language or an experienced developer exploring new technologies, Tech Guru provides the tools and resources you need to succeed.
+codeforge-academy is a modern, interactive learning platform designed to help developers of all skill levels improve their coding abilities through practical, hands-on experience. Whether you're a beginner learning your first programming language or an experienced developer exploring new technologies, Tech Guru provides the tools and resources you need to succeed.
 
-### Why Tech Guru?
+### Why codeforge-academy?
 
 **For Beginners:**
 - Step-by-step interactive tutorials
