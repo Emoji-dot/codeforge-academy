@@ -1,4 +1,4 @@
-# Tech Guru
+# codeforge-academy
 
 > An interactive frontend platform for developers to learn, practice, and master programming skills through hands-on tutorials, coding challenges, and curated tech resources.
 
